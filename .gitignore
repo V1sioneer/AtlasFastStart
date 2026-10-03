@@ -1,0 +1,9 @@
+/Installers/
+/Local/
+/verification/
+/Support/
+/Sources/
+*.part
+*.log
+*.tmp
+/.download-test/
