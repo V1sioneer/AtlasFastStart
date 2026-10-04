@@ -22,3 +22,9 @@ Original source and licence references:
 - [Rustup 1.29.1 MIT licence](https://github.com/rust-lang/rustup/blob/1.29.1/LICENSE-MIT), [Apache licence](https://github.com/rust-lang/rustup/blob/1.29.1/LICENSE-APACHE).
 
 The MIT licence at the repository root covers AtlasFastStart's own scripts and documentation only.
+
+## Steam download
+
+The Steam installer is kept in the local archive. Its public catalogue entry links to Valve's original download server. [Steam Subscriber Agreement, section 2.G](https://store.steampowered.com/subscriber_agreement/) restricts publishing or distributing copies of the Steam software without Valve's prior written consent, subject to the exceptions in that agreement. No separate mirror permission was established for this archive. The Steam installer is therefore not copied into this project's GitHub Releases.
+
+The catalogue's local filenames are text labels. Public download links point to existing release assets or the original publisher; they do not point to the ignored `Installers/` directory.

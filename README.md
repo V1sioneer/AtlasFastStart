@@ -6,6 +6,16 @@
 
 Полный локальный архив: `D:\AtlasFastStart\Installers`. Откройте **[Start.html](Start.html)** для поиска или **[CATALOGUE.md](CATALOGUE.md)** для полного списка и отдельных инструкций. Сами установщики запускаются вручную.
 
+## Скачать установщики
+
+[Steam](https://cdn.akamai.steamstatic.com/client/installer/SteamSetup.exe) · [Discord](https://stable.dl2.discordapp.net/distro/app/stable/win/x64/1.0.9260/DiscordSetup.exe) · [Google Chrome](https://dl.google.com/dl/chrome/install/googlechromestandaloneenterprise64.msi) · [Obsidian](https://github.com/obsidianmd/obsidian-releases/releases/download/v1.13.7/Obsidian-1.13.7.exe)
+
+**[Все программы и ссылки скачивания → CATALOGUE.md](CATALOGUE.md)**
+
+Кнопки выше получают оригинальные установщики с серверов авторов. В полном каталоге отдельно указаны файлы, размещённые в GitHub Releases, загрузки у автора и позиции только из локального архива.
+
+Steam сохранён локально как `Valve.Steam-2.10.91.91.exe`. Для публичного каталога используется загрузка с сервера Valve: [соглашение Steam, раздел 2.G](https://store.steampowered.com/subscriber_agreement/) ограничивает распространение копий письменным согласием Valve. Разрешение на размещение собственного зеркала Steam не подтверждено.
+
 ## GitHub и установщики
 
 [Релиз installers-2026-10-04](https://github.com/V1sioneer/AtlasFastStart/releases/tag/installers-2026-10-04) содержит пять оригинальных установщиков: 7-Zip, Python 3.12, Python 3.14, Node.js 22 и Rustup. Рядом лежат лицензии, соответствующий исходный код 7-Zip и контрольные суммы.
